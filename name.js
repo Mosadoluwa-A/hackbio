@@ -3,7 +3,7 @@ let Mosa = {
     email: "magbonyin@gmail.com",
     language: "Javascript",
     biostack: "Genomics",
-    slackUsername: ":Dolu"
+    slackUsername: "Dolu"
 };
 
 for (let [key, value] of Object.entries(Mosa)){
